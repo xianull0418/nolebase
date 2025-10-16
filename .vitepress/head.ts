@@ -35,8 +35,15 @@ export default [
     'meta',
     {
       name: 'keywords',
-      content:
-          ['markdown', 'knowledge-base', '知识库', 'vitepress', 'obsidian', 'notebook', 'notes', ]
+      content: [
+        'markdown',
+        'knowledge-base',
+        '知识库',
+        'vitepress',
+        'obsidian',
+        'notebook',
+        'notes',
+      ].join(', '),
     },
   ],
 
