@@ -111,7 +111,6 @@ export default defineConfig({
         ],
         socialLinks: [
           { icon: 'github', link: githubRepoLink },
-          { icon: 'discord', link: discordLink },
         ],
         darkModeSwitchLabel: '切换主题',
         outline: { label: '页面大纲', level: 'deep' },
